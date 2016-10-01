@@ -1,0 +1,67 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXGroup section */
+		EA2CD1091D9FFE3F00BC12CF = {
+			isa = PBXGroup;
+			children = (
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		EA2CD10A1D9FFE3F00BC12CF /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0800;
+			};
+			buildConfigurationList = EA2CD10D1D9FFE3F00BC12CF /* Build configuration list for PBXProject "Borgo alla vigna" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = EA2CD1091D9FFE3F00BC12CF;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		EA2CD10E1D9FFE3F00BC12CF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		EA2CD10F1D9FFE3F00BC12CF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		EA2CD10D1D9FFE3F00BC12CF /* Build configuration list for PBXProject "Borgo alla vigna" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EA2CD10E1D9FFE3F00BC12CF /* Debug */,
+				EA2CD10F1D9FFE3F00BC12CF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = EA2CD10A1D9FFE3F00BC12CF /* Project object */;
+}
