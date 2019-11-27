@@ -9,12 +9,14 @@
 /* Begin PBXFileReference section */
 		EA2CD1101D9FFEFB00BC12CF /* site */ = {isa = PBXFileReference; lastKnownFileType = folder; path = site; sourceTree = "<group>"; };
 		EA3C85A5238EDD9800817CB0 /* site2 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = site2; sourceTree = "<group>"; };
+		EA3C85A6238EE5CB00817CB0 /* site3 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = site3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		EA2CD1091D9FFE3F00BC12CF = {
 			isa = PBXGroup;
 			children = (
+				EA3C85A6238EE5CB00817CB0 /* site3 */,
 				EA3C85A5238EDD9800817CB0 /* site2 */,
 				EA2CD1101D9FFEFB00BC12CF /* site */,
 			);
