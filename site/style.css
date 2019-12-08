@@ -206,7 +206,7 @@ img {
   height: 100%;
 }
 .mu-main-navbar .navbar-header .navbar-brand-small {
-  height: 40px;
+  height: 44px;
   margin-top: 4px;
   width: 105px;
 }
@@ -2014,12 +2014,12 @@ RESERVATION SECTION
   }
 
   .mu-main-navbar .navbar-header .navbar-brand {
-    height: 30px;
+    height: 48px;
     width: 115px;
   }
 
   .mu-main-navbar .navbar-header .navbar-brand-small {
-    height: 44px;
+    height: 46px;
     margin-top: 4px;
     width: 110px;
   }
